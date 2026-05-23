@@ -1,6 +1,6 @@
 # Hi, everyone!
 
-I'm transitioning from product management into engineering, combining PM strategy, QA mindset, and UI/UX thinking with hands-on code. Currently learning full-stack development and exploring how agentic AI can accelerate the build cycle.
+My name is Reky. I'm transitioning from product management into engineering, combining PM strategy, QA mindset, and UI/UX thinking with hands-on code. Currently learning full-stack development and exploring how agentic AI can accelerate the build cycle.
 
 ## What I'm building
 
