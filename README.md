@@ -1,4 +1,4 @@
-# PM-turned-engineer building products end-to-end
+# Hi, everyone!
 
 I'm transitioning from product management into engineering, combining PM strategy, QA mindset, and UI/UX thinking with hands-on code. Currently learning full-stack development and exploring how agentic AI can accelerate the build cycle.
 
