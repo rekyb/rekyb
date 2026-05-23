@@ -17,7 +17,7 @@ I'm focused on building things that either scratch my own itch or help me unders
 
 ## Let's talk
 
-Always open to discussing product engineering, AI tooling, or just shipping side projects. Find me on [LinkedIn](https://linkedin.com) or reach out.
+Always open to discussing product engineering, AI tooling, or just shipping side projects. Find me on [LinkedIn](https://www.linkedin.com/in/rekybongso/).
 
 ---
 
