@@ -13,7 +13,7 @@ I'm focused on building things that either scratch my own itch or help me unders
 ## Projects
 
 - **[ai-clipper](https://github.com/rekyb/ai-clipper)** — Local-first AI tool for extracting viral-worthy clips from long-form video
-- **[office-copilot](https://github.com/rekyb/office-copilot)** — Co-pilot for Indonesian early-career professionals navigating office communication
+- **[office-copilot](https://github.com/rekyb/office-copilot)** — An AI co-pilot for Indonesian early-career professionals navigating office communication
 
 ## Let's talk
 
