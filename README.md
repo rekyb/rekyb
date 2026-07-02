@@ -4,11 +4,11 @@ My name is Reky. I'm transitioning from product management into engineering, com
 
 ## What I'm building
 
-**Primary stack:** Next.js, TypeScript, Python  
-**Side tools:** Playwright automation (mostly for work tooling)  
-**Agentic development:** Claude Code + Google Antigravity
+**Primary stack:** Next.js, React Native, TypeScript, Python  
+**Side tools:** Figma, n8n, Playwright automation (mostly for work tooling)  
+**Agentic development:** Claude Code, Google Antigravity, Opencode
 
-I'm focused on building things that either scratch my own itch or help me understand product engineering better. Shipping > perfection.
+I'm focused on building things that either scratch my own itch or help me understand product engineering better.
 
 ## Let's talk
 
